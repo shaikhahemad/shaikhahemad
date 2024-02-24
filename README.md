@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 I am a dedicated and versatile BSc third-year student majoring in computer science, electronics, and physics. My academic journey has equipped me with a diverse skill set and a strong foundation in various subjects ranging from programming languages to theoretical physics concepts.
 
 ## Education
-- **Bachelor of Science (BSc), [Your Major]**
-  - *Expected Graduation:* [Month, Year]
-  - [Your University], [Your City, State]
+- **Bachelor of Science (BSc), [CS, Electronics & physics]**
+  - *Expected Graduation:* [June, 2024]
+  - SRTMUN, PARBHANI, MAHARASHTRA 
 
 ## Relevant Coursework
 - **Computer Science:** HTML, C, C++, Basic Java, Visual Basic 6.0, RDBMS, Data Structures and Algorithms (DSA), Operating System, Computer Networks, Software Engineering, and Testing.
