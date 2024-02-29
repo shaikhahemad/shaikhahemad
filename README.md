@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Summary
+# Shaikh Ahemad
 I am a dedicated and versatile BSc third-year student majoring in computer science, electronics, and physics. My academic journey has equipped me with a diverse skill set and a strong foundation in various subjects ranging from programming languages to theoretical physics concepts.
 
 ## Education
