@@ -100,7 +100,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shaikhahemad/shaikhahemad/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/shaikhahemad/shaikhahemad/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
